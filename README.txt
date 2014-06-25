@@ -11,10 +11,6 @@ topsort.c
 makefile
 README
 
-Dropbox didn't allow me to upload a file without extension.
-
-Kindly remove .txt extension to makefile
-
 To compile:
 make
 
